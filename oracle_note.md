@@ -8,9 +8,9 @@
  
  * oracle database 접속
  
-sqlplus sys/oracle as sysdba
+> sqlplus sys/oracle as sysdba
 
-meaning 
+
 sys : user name
 
 oracle : password
