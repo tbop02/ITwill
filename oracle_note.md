@@ -2,5 +2,5 @@
 
 ### 2018/03/26
 
-##### oracle download
+- oracle download
 otn.oracle.com
