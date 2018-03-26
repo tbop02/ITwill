@@ -12,8 +12,11 @@ sqlplus sys/oracle as sysdba
 
 meaning 
 sys : user name
+
 oracle : password
+
 as sysdba : administrator connection
+
 sqlplus : SQL plus 쓴다
 
 
